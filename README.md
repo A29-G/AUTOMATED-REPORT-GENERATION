@@ -52,3 +52,5 @@ The code is modular, well-commented, and easy to modify. It serves as a great st
 
 
 *OUTPUT*
+
+[generated_report.pdf](https://github.com/user-attachments/files/19828643/generated_report.pdf)
